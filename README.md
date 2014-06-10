@@ -8,6 +8,8 @@ swipeevent依赖于Jquery
 $(elemt).bind('swipeLeft',function(){
 	    // you code
 });
+
+
 $(elemt).bind('swipeRight',function(){
 	    // you code
 })
